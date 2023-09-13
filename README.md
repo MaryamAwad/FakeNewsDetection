@@ -11,3 +11,6 @@ In an era where misinformation and fake news pose significant challenges, this p
 
 - Real-time news analysis
 - Confidence score for each article
+
+The datset is from kaggle
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
